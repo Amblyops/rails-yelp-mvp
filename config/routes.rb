@@ -7,4 +7,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+
+  # get "restaurants" to: "restaurants#index"
+  # get other routes that have not yet been fully taught
 end
